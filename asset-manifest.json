@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/lucky-star-jar/static/css/main.3fb4eee9.css",
-    "main.js": "/lucky-star-jar/static/js/main.b7c87802.js",
+    "main.css": "/lucky-star-jar/static/css/main.67b3190f.css",
+    "main.js": "/lucky-star-jar/static/js/main.a6a1dbf0.js",
     "static/js/453.ee228670.chunk.js": "/lucky-star-jar/static/js/453.ee228670.chunk.js",
     "index.html": "/lucky-star-jar/index.html",
-    "main.3fb4eee9.css.map": "/lucky-star-jar/static/css/main.3fb4eee9.css.map",
-    "main.b7c87802.js.map": "/lucky-star-jar/static/js/main.b7c87802.js.map",
+    "main.67b3190f.css.map": "/lucky-star-jar/static/css/main.67b3190f.css.map",
+    "main.a6a1dbf0.js.map": "/lucky-star-jar/static/js/main.a6a1dbf0.js.map",
     "453.ee228670.chunk.js.map": "/lucky-star-jar/static/js/453.ee228670.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3fb4eee9.css",
-    "static/js/main.b7c87802.js"
+    "static/css/main.67b3190f.css",
+    "static/js/main.a6a1dbf0.js"
   ]
 }
